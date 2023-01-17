@@ -11,7 +11,7 @@ One of these limitations is the inclusion of C support and C standard library, w
 
 With Cyon, my goal is to address these issues and improve upon them. I want to create a programming language that is more efficient, readable and easy to work with. After all, who hasn't ever dreamt of creating their own programming language ;D
 
-## Syntax:
+## Syntax
 ```rust
 import std.iolib;
 
